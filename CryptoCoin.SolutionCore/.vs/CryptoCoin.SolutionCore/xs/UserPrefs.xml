@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{CE919D60-08AE-4895-BE84-BEDB1CCC3022}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.CryptoCoin.SolutionCore PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CryptoCoin.SolutionCore/Moq/CryptoAPIServiceMoq.cs">
+    <Files>
+      <File FileName="CryptoCoin.SolutionCore/Models/ErrorViewModel.cs" Line="12" Column="1" IsPinned="True" />
+      <File FileName="CryptoCoin.SolutionCore/Moq/CryptoAPIServiceMoq.cs" Line="40" Column="1" IsPinned="True" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CryptoCoin.SolutionCore">
+            <Node name="CryptoCoin.SolutionCore" expanded="True">
+              <Node name="Moq" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

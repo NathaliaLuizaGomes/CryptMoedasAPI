@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = CryptoCoin.SolutionCore.Tests
+build_property.ProjectDir = /Users/nathalialuiza/Documents/Projects/Crypto/CryptMoedasAPI/CryptoCoin.SolutionCore/CryptoCoin.SolutionCore.Tests/
